@@ -8,24 +8,7 @@
 Portfolio pessoal de **Nands**, designer com pegada única que transforma conceito em visual que conecta de verdade. Feito com HTML, CSS e JS puro — simples, rápido e sem frescura.
  
 ---
- 
-## 📁 Estrutura de Pastas
- 
-```
-nands.design/
-├── index.html          # Página principal
-├── /assets
-│   ├── /css
-│   │   └── style.css   # Estilos globais
-│   ├── /js
-│   │   └── main.js     # Scripts
-│   └── /img            # Imagens e ícones
-├── /pages              # Páginas internas (se houver)
-└── README.md
-```
- 
----
- 
+
 ## 🚀 Instalação e Setup
  
 Não precisa de build, bundler nem nada complicado. É HTML puro — abre e funciona.
